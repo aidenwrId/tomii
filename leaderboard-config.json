@@ -1,0 +1,44 @@
+{
+  "acebet": {
+    "enabled": true,
+    "name": "AceBet",
+    "resetDate": "2026-01-31T23:59:59Z",
+    "resetIntervalDays": 30,
+    "incrementInterval": 30,
+    "incrementAmount": {
+      "min": 10,
+      "max": 50
+    },
+    "lastIncrement": "2025-12-28T21:02:56.840Z",
+    "prizes": [
+      100,
+      50,
+      25,
+      15,
+      10
+    ],
+    "players": []
+  },
+  "clash": {
+    "enabled": true,
+    "name": "Clash",
+    "resetDate": "2026-01-31T23:59:59Z",
+    "resetIntervalDays": 30,
+    "incrementInterval": 30,
+    "incrementAmount": {
+      "min": 10,
+      "max": 50
+    },
+    "lastIncrement": "2025-12-28T21:02:56.840Z",
+    "prizes": [
+      100,
+      50,
+      25,
+      15,
+      10
+    ],
+    "players": []
+  },
+  "devUsername": "",
+  "devPassword": ""
+}
