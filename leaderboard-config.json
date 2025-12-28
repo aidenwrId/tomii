@@ -37,7 +37,15 @@
       15,
       10
     ],
-    "players": []
+    "players": [
+      {
+        "id": 1,
+        "name": "Player1",
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Player1",
+        "wagered": 1000,
+        "baseWagered": 1000
+      }
+    ]
   },
   "devUsername": "",
   "devPassword": ""
