@@ -2,22 +2,24 @@
   "acebet": {
     "enabled": true,
     "name": "AceBet",
-    "resetDate": "2026-01-31T23:59:59Z",
-    "resetIntervalDays": 30,
+    "resetDate": "2026-01-09T23:59:59Z",
+    "resetIntervalDays": 14,
     "incrementInterval": 30,
-    "incrementAmount": {
-      "min": 10,
-      "max": 50
-    },
-    "lastIncrement": "2025-12-28T21:02:56.840Z",
-    "prizes": [
-      100,
-      50,
-      25,
-      15,
-      10
-    ],
-    "players": []
+    "incrementAmount": { "min": 10, "max": 50 },
+    "lastIncrement": null,
+    "prizes": [20, 10, 5, 0, 0, 0, 0, 0, 0, 0],
+    "players": [
+      { "id": 1, "name": "xAiden_", "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=xAiden", "wagered": 4250, "baseWagered": 4250 },
+      { "id": 2, "name": "Marcus7x", "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus7x", "wagered": 3890, "baseWagered": 3890 },
+      { "id": 3, "name": "JakeTV", "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=JakeTV", "wagered": 3420, "baseWagered": 3420 },
+      { "id": 4, "name": "TylerPlays", "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=TylerPlays", "wagered": 2830, "baseWagered": 2830 },
+      { "id": 5, "name": "B_Slotking", "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=BSlotking", "wagered": 2450, "baseWagered": 2450 },
+      { "id": 6, "name": "Kyle2k", "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Kyle2k", "wagered": 2180, "baseWagered": 2180 },
+      { "id": 7, "name": "DerekWins", "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=DerekWins", "wagered": 1920, "baseWagered": 1920 },
+      { "id": 8, "name": "Jason_gg", "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jasongg", "wagered": 1650, "baseWagered": 1650 },
+      { "id": 9, "name": "ChrisLuck", "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=ChrisLuck", "wagered": 1380, "baseWagered": 1380 },
+      { "id": 10, "name": "RyanHits", "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=RyanHits", "wagered": 1120, "baseWagered": 1120 }
+    ]
   },
   "clash": {
     "enabled": true,
@@ -25,28 +27,22 @@
     "resetDate": "2026-01-31T23:59:59Z",
     "resetIntervalDays": 30,
     "incrementInterval": 30,
-    "incrementAmount": {
-      "min": 10,
-      "max": 50
-    },
-    "lastIncrement": "2025-12-28T21:02:56.840Z",
-    "prizes": [
-      100,
-      50,
-      25,
-      15,
-      10
-    ],
+    "incrementAmount": { "min": 50, "max": 200 },
+    "lastIncrement": null,
+    "prizes": [100, 75, 60, 45, 35, 25, 20, 15, 15, 10],
     "players": [
-      {
-        "id": 1,
-        "name": "Player1",
-        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Player1",
-        "wagered": 1000,
-        "baseWagered": 1000
-      }
+      { "id": 1, "name": "JackpotJay", "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=JackpotJay", "wagered": 52400, "baseWagered": 52400 },
+      { "id": 2, "name": "MikeRolls", "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=MikeRolls", "wagered": 47800, "baseWagered": 47800 },
+      { "id": 3, "name": "xAlexSlots", "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=xAlexSlots", "wagered": 41200, "baseWagered": 41200 },
+      { "id": 4, "name": "RyanSpins", "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=RyanSpins", "wagered": 38600, "baseWagered": 38600 },
+      { "id": 5, "name": "TommyBets", "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=TommyBets", "wagered": 34100, "baseWagered": 34100 },
+      { "id": 6, "name": "ChrisClash", "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=ChrisClash", "wagered": 31500, "baseWagered": 31500 },
+      { "id": 7, "name": "Danny_Wins", "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=DannyWins", "wagered": 28900, "baseWagered": 28900 },
+      { "id": 8, "name": "SamGambles", "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=SamGambles", "wagered": 25400, "baseWagered": 25400 },
+      { "id": 9, "name": "NickLucky7", "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=NickLucky7", "wagered": 22100, "baseWagered": 22100 },
+      { "id": 10, "name": "BenBigWin", "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=BenBigWin", "wagered": 18000, "baseWagered": 18000 }
     ]
   },
-  "devUsername": "",
-  "devPassword": ""
+  "devUsername": "acebet",
+  "devPassword": "admin123"
 }
