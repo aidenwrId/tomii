@@ -98,7 +98,7 @@
   "clash": {
     "enabled": true,
     "name": "Clash",
-    "resetDate": "2026-01-31T23:59:59Z",
+    "resetDate": "2025-12-31T22:59:00.000Z",
     "resetIntervalDays": 30,
     "incrementInterval": 30,
     "incrementAmount": {
@@ -108,86 +108,86 @@
     "lastIncrement": null,
     "prizes": [
       100,
-      75,
-      60,
-      45,
+      70,
       35,
       25,
-      20,
-      15,
-      15,
-      10
+      10,
+      10,
+      10,
+      5,
+      5,
+      5
     ],
     "players": [
       {
         "id": 1,
-        "name": "JackpotJay",
+        "name": "aidenxo",
         "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=JackpotJay",
-        "wagered": 12400,
-        "baseWagered": 12400
+        "wagered": 8940,
+        "baseWagered": 8940
       },
       {
         "id": 2,
-        "name": "MikeRolls",
+        "name": "50pack",
         "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=MikeRolls",
-        "wagered": 47800,
-        "baseWagered": 47800
+        "wagered": 7480,
+        "baseWagered": 7480
       },
       {
         "id": 3,
-        "name": "xAlexSlots",
+        "name": "superkapca",
         "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=xAlexSlots",
-        "wagered": 41200,
-        "baseWagered": 41200
+        "wagered": 6215,
+        "baseWagered": 6215
       },
       {
         "id": 4,
-        "name": "RyanSpins",
+        "name": "yaboisyke",
         "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=RyanSpins",
-        "wagered": 38600,
-        "baseWagered": 38600
+        "wagered": 2180,
+        "baseWagered": 2180
       },
       {
         "id": 5,
-        "name": "TommyBets",
+        "name": "zolla",
         "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=TommyBets",
-        "wagered": 34100,
-        "baseWagered": 34100
+        "wagered": 1760,
+        "baseWagered": 1760
       },
       {
         "id": 6,
-        "name": "ChrisClash",
+        "name": "JnPork69",
         "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=ChrisClash",
-        "wagered": 31500,
-        "baseWagered": 31500
+        "wagered": 1420,
+        "baseWagered": 1420
       },
       {
         "id": 7,
-        "name": "Danny_Wins",
+        "name": "grant8",
         "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=DannyWins",
-        "wagered": 28900,
-        "baseWagered": 28900
+        "wagered": 1180,
+        "baseWagered": 1180
       },
       {
         "id": 8,
-        "name": "SamGambles",
+        "name": "JaseLford",
         "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=SamGambles",
-        "wagered": 25400,
-        "baseWagered": 25400
+        "wagered": 980,
+        "baseWagered": 980
       },
       {
         "id": 9,
-        "name": "NickLucky7",
+        "name": "daditsoverbro",
         "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=NickLucky7",
-        "wagered": 22100,
-        "baseWagered": 22100
+        "wagered": 845,
+        "baseWagered": 845
       },
       {
         "id": 10,
-        "name": "BenBigWin",
+        "name": "fukejsepedr",
         "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=BenBigWin",
-        "wagered": 18000,
-        "baseWagered": 18000
+        "wagered": 710,
+        "baseWagered": 710
       }
     ]
   },
