@@ -25,7 +25,7 @@
     "players": [
       {
         "id": 1,
-        "name": "Aiden_",
+        "name": "Aiden_999",
         "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=xAiden",
         "wagered": 62480,
         "baseWagered": 62480
@@ -39,14 +39,14 @@
       },
       {
         "id": 3,
-        "name": "superkapca",
+        "name": "SuperKapca",
         "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=JakeTV",
         "wagered": 44215,
         "baseWagered": 44215
       },
       {
         "id": 4,
-        "name": "bossmancrack",
+        "name": "TylerPlays",
         "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=TylerPlays",
         "wagered": 14870,
         "baseWagered": 14870
@@ -67,7 +67,7 @@
       },
       {
         "id": 7,
-        "name": "",
+        "name": "DerekWins",
         "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=DerekWins",
         "wagered": 7957,
         "baseWagered": 7957
@@ -81,14 +81,14 @@
       },
       {
         "id": 9,
-        "name": "grilledcheese",
+        "name": "ChrisLuck",
         "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=ChrisLuck",
         "wagered": 5209,
         "baseWagered": 5209
       },
       {
         "id": 10,
-        "name": "50pack",
+        "name": "RyanHits",
         "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=RyanHits",
         "wagered": 3314,
         "baseWagered": 3314
