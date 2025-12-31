@@ -2,7 +2,7 @@
   "acebet": {
     "enabled": true,
     "name": "AceBet",
-    "resetDate": "2026-01-02T21:59:00.000Z",
+    "resetDate": "2025-12-31T22:59:00.000Z",
     "resetIntervalDays": 14,
     "incrementInterval": 30,
     "incrementAmount": {
