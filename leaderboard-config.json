@@ -123,15 +123,15 @@
         "id": 1,
         "name": "aidenxo",
         "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=JackpotJay",
-        "wagered": 8940,
-        "baseWagered": 8940
+        "wagered": 11940,
+        "baseWagered": 11940
       },
       {
         "id": 2,
         "name": "50pack",
         "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=MikeRolls",
-        "wagered": 7480,
-        "baseWagered": 7480
+        "wagered": 8588,
+        "baseWagered": 8588
       },
       {
         "id": 3,
