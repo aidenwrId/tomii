@@ -96,7 +96,7 @@
     ]
   },
   "clash": {
-    "enabled": false,
+    "enabled": true,
     "name": "Clash",
     "resetDate": "2026-01-08T18:59:00.000Z",
     "resetIntervalDays": 30,
