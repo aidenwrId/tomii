@@ -1,6 +1,6 @@
 {
   "acebet": {
-    "enabled": true,
+    "enabled": false,
     "name": "AceBet",
     "resetDate": "2026-01-08T18:59:00.000Z",
     "resetIntervalDays": 14,
@@ -96,7 +96,7 @@
     ]
   },
   "clash": {
-    "enabled": true,
+    "enabled": false,
     "name": "Clash",
     "resetDate": "2026-01-08T18:59:00.000Z",
     "resetIntervalDays": 30,
