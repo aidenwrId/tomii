@@ -1,6 +1,6 @@
 {
   "acebet": {
-    "enabled": false,
+    "enabled": true,
     "name": "AceBet",
     "resetDate": "2026-01-08T18:59:00.000Z",
     "resetIntervalDays": 14,
